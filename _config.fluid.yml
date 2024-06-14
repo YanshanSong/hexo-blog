@@ -961,7 +961,6 @@ about:
     - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
 
-
 #---------------------------
 # 自定义页
 # Custom Page
